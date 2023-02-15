@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: pratham-prac3-main
+    environment_json: {}
+    memory: 128M
+    instances: 1
+    disk_quota: 1024M
+    services: []
