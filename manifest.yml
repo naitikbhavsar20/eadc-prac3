@@ -1,6 +1,9 @@
 applications:
   - path: .
     name: pratham-prac3-main1
+    ---
+  ...
+  random-route: true
     environment_json: {}
     memory: 128M
     instances: 1
