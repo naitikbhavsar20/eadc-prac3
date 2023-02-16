@@ -1,8 +1,6 @@
 applications:
   - path: .
     name: pratham-prac3-main1
-   routes:
-   - route: pratham-prac3-main1.eu-gb.cf.appdomain.cloud
     environment_json: {}
     memory: 128M
     instances: 1
